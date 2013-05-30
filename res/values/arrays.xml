@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="extensionesPermitidas">
+        <item >jpg</item>
+        <item >gif</item>
+        <item >png</item>
+        <item >bmp</item>        
+    </string-array>
+    
+</resources>
